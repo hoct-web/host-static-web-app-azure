@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DE8VLQCRE6.com.watt.dev",
+        "paths": ["/qr/*"]
+      },
+      {
+        "appID": "N75LHQQ5U4.no.watt",
+        "paths": ["/qr/*"]
+      }
+    ]
+  }
+}

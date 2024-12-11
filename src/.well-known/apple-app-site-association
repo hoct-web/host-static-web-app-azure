@@ -1,14 +1,17 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "DE8VLQCRE6.com.watt.dev",
-        "paths": ["/qr/*"]
-      },
-      {
-        "appID": "N75LHQQ5U4.no.watt",
-        "paths": ["/qr/*"]
+        "appIDs": [
+          "DE8VLQCRE6.com.watt.dev",
+          "N75LHQQ5U4.no.watt"
+        ],
+        "components": [
+          {
+            "/": "/qr/*",
+            "comment": "Matches any URL with a path that starts with /qr/."
+          }
+        ]
       }
     ]
   }

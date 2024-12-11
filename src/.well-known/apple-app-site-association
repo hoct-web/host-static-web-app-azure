@@ -9,7 +9,7 @@
         "components": [
           {
             "/": "/qr/*",
-            "comment": "Matches any URL with a path that starts with /qr/."
+            "comment": "Matches any URL whose path starts with /qr/"
           }
         ]
       }

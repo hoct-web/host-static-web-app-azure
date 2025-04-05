@@ -5,13 +5,13 @@
       {
         "appID": "2ZMHRSV8U8.com.watt.dev",
         "paths": [
-          "/qr/*"
+          "/*/launch/*"
         ]
       },
       {
         "appID": "N75LHQQ5U4.no.watt",
         "paths": [
-          "/qr/*"
+          "/*/launch/*"
         ]
       }
     ]
